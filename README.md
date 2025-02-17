@@ -1,13 +1,5 @@
 Landing Page: Health Food Delivery Site
 
-<img width="125" alt="42" src="https://github.com/user-attachments/assets/070c314a-2259-48ce-8e0c-e3ee640c7ed1" /><img width="125" alt="491" src="https://github.com/user-attachments/assets/34936ac6-76e0-466c-a393-314c9dd2955e" />
-<img width="125" alt="392" src="https://github.com/user-attachments/assets/49e6d614-949e-4d3d-9d7d-9eb58c2cb200" />
-<img width="125" alt="278" src="https://github.com/user-attachments/assets/219fd10b-ef4e-4feb-b1d7-d4fa55d2cb68" />
-<img width="125" alt="230" src="https://github.com/user-attachments/assets/e1325131-0783-4d4e-b977-5f5201306c44" />
-<img width="125" alt="166" src="https://github.com/user-attachments/assets/c6dca557-1716-4289-90db-125ddb316900" />
-<img width="125" alt="150" src="https://github.com/user-attachments/assets/7883dd65-8a32-45dd-8403-45e1f38d0ae3" />
-<img width="125" alt="128" src="https://github.com/user-attachments/assets/31a2f12c-dd84-43d1-b854-173e5441f2cd" />
-
 Этот проект представляет собой лендинг для сайта доставки здоровой пищи, разработанный с использованием конструктора сайтов Tilda и интеграции ChatGPT для автоматизации взаимодействия с пользователями. Сайт нацелен на удобство и доступность, предлагая клиентам быстрое и простое решение для заказа здоровой и питательной пищи с доставкой на дом.
 
 Технологии:
